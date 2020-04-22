@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/piano-trainer/static/css/main.32ddebcd.chunk.css",
+    "main.js": "/piano-trainer/static/js/main.f8d400d0.chunk.js",
+    "main.js.map": "/piano-trainer/static/js/main.f8d400d0.chunk.js.map",
+    "runtime-main.js": "/piano-trainer/static/js/runtime-main.f59b4d8e.js",
+    "runtime-main.js.map": "/piano-trainer/static/js/runtime-main.f59b4d8e.js.map",
+    "static/js/2.88c809b5.chunk.js": "/piano-trainer/static/js/2.88c809b5.chunk.js",
+    "static/js/2.88c809b5.chunk.js.map": "/piano-trainer/static/js/2.88c809b5.chunk.js.map",
+    "index.html": "/piano-trainer/index.html",
+    "precache-manifest.ec29d5bd482b81c556acfc8b34c6594d.js": "/piano-trainer/precache-manifest.ec29d5bd482b81c556acfc8b34c6594d.js",
+    "service-worker.js": "/piano-trainer/service-worker.js",
+    "static/css/main.32ddebcd.chunk.css.map": "/piano-trainer/static/css/main.32ddebcd.chunk.css.map",
+    "static/js/2.88c809b5.chunk.js.LICENSE.txt": "/piano-trainer/static/js/2.88c809b5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f59b4d8e.js",
+    "static/js/2.88c809b5.chunk.js",
+    "static/css/main.32ddebcd.chunk.css",
+    "static/js/main.f8d400d0.chunk.js"
+  ]
+}
